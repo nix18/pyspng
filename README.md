@@ -1,4 +1,4 @@
-
+## Update: Solved the problem of not being able to install(spng/spng.h can't find problem)
 **Pyspng** is a small library to for efficiently loading PNG files to numpy arrays.
 Pyspng does not offer any image manipulation functionality.
 
